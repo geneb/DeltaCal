@@ -36,7 +36,6 @@ namespace DeltalCal {
         public classEEProm(SerialPort serialPort) {
             this.serialPort = serialPort;
            
-
         }
 
 
